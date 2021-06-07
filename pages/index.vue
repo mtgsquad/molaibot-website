@@ -7,7 +7,7 @@
       </h1>
       <div class="links">
         <a
-          href="https://bot.molai.dev/invite"
+          href="https://dsc.gg/molaibot"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
